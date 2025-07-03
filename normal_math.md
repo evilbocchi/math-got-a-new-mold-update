@@ -15,9 +15,9 @@ These tell us how numbers behave with zero and one:
 
 ✅ These work for all real, rational, complex, and even matrix values.  
 ❌ $ψ$ says:
-```math
-ψ + r = ψ\text{ for any real }r.
-```
+
+$$ψ + r = ψ\text{ for any real }r.$$
+
 There is no identity — $ψ$ consumes all.
 
 ---
@@ -31,9 +31,8 @@ There is no identity — $ψ$ consumes all.
 
 ✅ You subtract a number from itself, you get zero.  
 ❌ $ψ$ gives you the **entire set of real numbers** instead of zero.
-```math
-ψ - ψ = ℝ
-```
+
+$$ψ - ψ = ℝ$$
 
 ---
 
@@ -44,13 +43,12 @@ There is no identity — $ψ$ consumes all.
 
 ✅ Always true for any known number, function, or set.  
 ❌ 
-```math
-ψ ≠ ψ \text{ under standard identity.}
-```
+
+$$ψ ≠ ψ \text{ under standard identity.}$$
+
 But also…   
-```math
-ψ ≡ ψ \text{ under ψ-logic}.
-```
+$$ψ ≡ ψ \text{ under ψ-logic}.$$
+
 Contradiction is baked in. It lives like this.
 
 ---
@@ -73,9 +71,7 @@ No shape. No structure. Just mold.
 
 ✅ Real math dies here.  
 ❌ ψ says:  
-```math
-\frac{ψ}{0} = 𝒪(∞)
-```
+$$\frac{ψ}{0} = 𝒪(∞)$$
 and dares you to argue.
 
 ---
@@ -98,9 +94,8 @@ This holy rule says:
 
 ✅ Works perfectly in standard calculus.  
 ❌ $ψ$-calculus *still* obeys this rule, but:
-
-* $∫ψ dx = ψ$
-* $\frac{d}{dx} ψ = 𝒪(∞)$  
+$$∫ψ\space dx = ψ$$
+$$\frac{d}{dx} ψ = 𝒪(∞)$$
   You didn’t get your function back — you got infinite mold.
 
 ---

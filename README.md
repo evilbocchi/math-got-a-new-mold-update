@@ -19,9 +19,7 @@ This repository contains the formal documentation for **ψ (psi)**, a revolution
 - ✅ **Extends calculus** to work with paradoxical objects
 
 ### The Core Identity
-```math
-ψ = ψ + 1
-```
+$$ψ = ψ + 1$$
 
 In normal math, this equation has no solution. In **ψ-mathematics**, this *is* the solution.
 
