@@ -9,7 +9,7 @@ Here's how ψ compares:
 
 | Feature | Existing Systems | ψ-System |
 |--------|------------------|----------|
-| **Handles division by zero** | Wheel theory introduces a special 'bottom' element ¬ that defines z / 0. | ✅ ψ / 0 = 𝒪(∞), a defined overdivergent mold value. |
+| **Handles division by zero** | Wheel theory introduces a special 'bottom' element ¬ that defines z / 0. | ✅ ψ / 0 = 𝒪(∞), an overdefined divergent mold value. |
 | **Tolerates contradiction (A ∧ ¬A)** | Paraconsistent logic (LP, RM, etc.) avoids explosion under contradiction. | ✅ ψ = ψ + 1 is accepted as a fundamental axiom. Contradiction is central, not just tolerated. |
 | **Absorbing undefined behavior** | NaN in computing, ⊥ in logic, ⌀ in set theory act as traps. | ✅ ψ absorbs *everything* — ψ + x = ψ, f(ψ) = ψ. It acts as a mathematical black hole. |
 | **Self-referential fixed points** | Y-combinator in lambda calculus, fixed-point theorems. | ✅ ψ is defined directly by the unsolvable identity ψ = ψ + 1. |
