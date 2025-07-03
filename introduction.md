@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Foundation of ψ: A Paraconsistent Mold Object for Overdefined Mathematics
+title: The Foundation of Psi: A Paraconsistent Mold Object for Overdefined Mathematics
 ---
 
 **Abstract:**

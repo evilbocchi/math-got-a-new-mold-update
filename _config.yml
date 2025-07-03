@@ -1,13 +1,9 @@
 title: "Math Got a New Mold Update"
 description: "A formal mathematical framework for the mold object ψ"
-theme: minima
 markdown: kramdown
 
 kramdown:
   math_engine: mathjax
-  math_engine_opts:
-    preview: true
-    preview_as_code: false
 
 plugins:
   - jekyll-feed
