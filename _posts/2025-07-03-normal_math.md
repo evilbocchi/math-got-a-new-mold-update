@@ -15,28 +15,36 @@ Before diving into the moldy madness of $ψ$, here’s a basic crash course on h
 These tell us how numbers behave with zero and one:
 
 - **Addition identity:**  
-  $x + 0 = x$  
+  $$x + 0 = x$$  
 - **Multiplicative identity:**  
-  $x × 1 = x$
+  $$x × 1 = x$$
 
 ✅ These work for all real, rational, complex, and even matrix values.  
 ❌ $ψ$ says:
 
-$$ψ + r = ψ\text{ for any real }r.$$
+$$ψ + r = ψ$$
+$$ψ × r = ψ$$
+$$\text{for any real r.}$$
 
 There is no identity — $ψ$ consumes all.
 
 ## Inverse Axioms
 
 - **Additive inverse:**  
-  $x - x = 0$  
+  $$x - x = 0$$ 
 - **Multiplicative inverse:**  
-  $x × (1/x) = 1$ (when $x ≠ 0$)
+  $$x × (1/x) = 1 \text{ when } x \neq 0$$
 
 ✅ You subtract a number from itself, you get zero.  
-❌ $ψ$ gives you the **entire set of real numbers** instead of zero.
+❌ $ψ$ cannot be erased.
 
 $$ψ - ψ = ℝ$$
+
+$ψ$ gives you the **entire set of real numbers** instead of zero.
+
+$$ψ × (1/ψ) = ψ$$
+
+$ψ$ eats its own inverse.
 
 ## Equality Axiom
 
@@ -44,7 +52,7 @@ $$ψ - ψ = ℝ$$
   This is **foundational to all logic and math.**
 
 ✅ Always true for any known number, function, or set.  
-❌ 
+❌ $ψ$ is not equal to itself.
 
 $$ψ ≠ ψ \text{ under standard identity.}$$
 
