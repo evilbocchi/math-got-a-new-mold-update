@@ -1,9 +1,56 @@
 title: "Math Got a New Mold Update"
 description: "A formal mathematical framework for the mold object ψ"
+
+## => Language and Timezone
+##############################
+lang: # the language of your site, default as "en"
+timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+
+## => GitHub Repository (if the site is hosted by GitHub)
+##############################
+repository: evilbocchi/math-got-a-new-mold-update
+repository_tree: main
+
+# Author Info
+author_name: "evilbocchi" # Your name here
+author_gravatar: e98e5de03e97f8498caab87e85a43f9a # Your Gravatar md5 hash here for logo
+
+url: https://evilbocchi.github.io/math-got-a-new-mold-update
+baseurl:  ""
+
+# Site Settings
+mathjax: true # enables support for mathjax - set to false to disable
+
+# Site Build
+highlighter: rouge
 markdown: kramdown
-
 kramdown:
-  math_engine: mathjax
+  input: GFM
+sass:
+  style: compressed
 
+# Other Params
+include: ["robots.txt"]
+exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile"]
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "null"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
