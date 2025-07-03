@@ -1,3 +1,8 @@
+---
+layout: page
+title: Math Got a New Mold Update
+---
+
 # The Foundation of $ψ$: A Paraconsistent Mold Object for Overdefined Mathematics
 
 **Abstract:**

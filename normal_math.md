@@ -1,3 +1,8 @@
+---
+layout: page
+title: Normal Math Background
+---
+
 ## How Normal Math Works (So You Can Understand How ψ Breaks It)
 
 Before diving into the moldy madness of $ψ$, here’s a basic crash course on how **normal math** keeps itself sane — and how $ψ$ smirks, eats the rules, and calls itself consistent anyway.
