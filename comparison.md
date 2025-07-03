@@ -3,8 +3,6 @@ layout: page
 title: Comparison to Existing Systems
 ---
 
-## Comparison to Existing Systems
-
 The ψ-system introduces a radically new construct: a **mold-object** that absorbs paradox, undefined behavior, and contradiction. While elements of ψ echo concepts from other systems, no existing framework captures all its properties.
 
 Here's how ψ compares:
