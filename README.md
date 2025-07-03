@@ -1,8 +1,8 @@
 # Math Got a New Mold Update
 
-[![Mathematical Framework](https://img.shields.io/badge/Type-Mathematical%20Framework-blue)](https://github.com/your-username/math-got-a-new-mold-update)
+[![Mathematical Framework](https://img.shields.io/badge/Type-Mathematical%20Framework-blue)](https://github.com/evilbocchi/math-got-a-new-mold-update)
 [![License](https://img.shields.io/badge/License-Open%20Research-green)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active%20Research-orange)](https://github.com/your-username/math-got-a-new-mold-update)
+[![Status](https://img.shields.io/badge/Status-Active%20Research-orange)](https://github.com/evilbocchi/math-got-a-new-mold-update)
 
 > **What if mathematics could handle contradictions without breaking?**
 
