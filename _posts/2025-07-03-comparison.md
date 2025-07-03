@@ -22,7 +22,7 @@ Here's how ψ compares:
 
 ---
 
-### Summary
+# Summary
 
 - Many systems have **one piece** of what ψ does.
 - **ψ is the first** to combine all of them into a coherent framework with:

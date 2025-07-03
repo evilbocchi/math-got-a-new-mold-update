@@ -5,7 +5,13 @@ title: How Normal Math Works (So You Can Understand How ψ Breaks It)
 
 Before diving into the moldy madness of $ψ$, here’s a basic crash course on how **normal math** keeps itself sane — and how $ψ$ smirks, eats the rules, and calls itself consistent anyway.
 
-### 1. **Identity Axioms**
+# Table of Contents
+* TOC
+{:toc}
+
+# Axioms
+
+## Identity Axioms
 These tell us how numbers behave with zero and one:
 
 - **Addition identity:**  
@@ -20,9 +26,7 @@ $$ψ + r = ψ\text{ for any real }r.$$
 
 There is no identity — $ψ$ consumes all.
 
----
-
-### 2. **Inverse Axioms**
+## Inverse Axioms
 
 - **Additive inverse:**  
   $x - x = 0$  
@@ -34,9 +38,7 @@ There is no identity — $ψ$ consumes all.
 
 $$ψ - ψ = ℝ$$
 
----
-
-### 3. **Equality Axiom**
+## Equality Axiom
 
 - $x = x$ (Reflexive identity)  
   This is **foundational to all logic and math.**
@@ -51,9 +53,7 @@ $$ψ ≡ ψ \text{ under ψ-logic}.$$
 
 Contradiction is baked in. It lives like this.
 
----
-
-### 4. **Function Consistency**
+## Function Consistency
 
 - If $f(x)$ is continuous, then $f(x)$ gives a meaningful, unique output.  
 - Functions **preserve structure**: $f(a + b) = f(a) + f(b)$ (for linear stuff)
@@ -64,7 +64,7 @@ No shape. No structure. Just mold.
 
 ---
 
-### 5. **Division by Zero**
+## Division by Zero
 
 - **Undefined.** Forbidden. Illegal.  
   $\frac{x}{0}$ blows everything up.
@@ -76,7 +76,7 @@ and dares you to argue.
 
 ---
 
-### 6. **Polynomials, Roots, and Zeroes**
+## Polynomials, Roots, and Zeroes
 
 * A polynomial like $P(x) = x² + 1$ has roots where $P(x) = 0$.
 
@@ -86,7 +86,7 @@ Roots? Structure? All $ψ$.
 
 ---
 
-### 7. **Fundamental Theorem of Calculus**
+## Fundamental Theorem of Calculus
 
 This holy rule says:
 
@@ -100,7 +100,7 @@ $$\frac{d}{dx} ψ = 𝒪(∞)$$
 
 ---
 
-### **Summary**
+# Summary
 
 Normal math is built on:
 
